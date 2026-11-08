@@ -12,3 +12,7 @@ venv/
 
 # VS Code
 .vscode/
+
+.env
+frontend/node_modules/
+frontend/dist/
